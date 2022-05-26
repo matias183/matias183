@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Fullstack Web Developer, mostly using React but learning more technologies as you read this! \
-💻 &nbsp;I'm currently learning React native, AWS, Firebase and a anything that interest me in the process\
+💻 &nbsp;I'm currently learning React native, AWS, Firebase and anything that grabs my attention!\
 🎓&nbsp;I studied in [SoyHenry Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
 🌱 &nbsp;I'm on track for learning more about Machine learning, AI, Robotics and Web Development.\
 ✍️ &nbsp;In my free time, I play games, talk with friends and study!.\
