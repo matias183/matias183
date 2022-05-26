@@ -9,13 +9,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Fullstack Web Developer, mostly using React but learning more technologies as you read this! \
-💻 &nbsp;I'm currently learning React native, AWS, Firebase and anything that grabs my attention!\
-🎓&nbsp;I studied in [SoyHenry Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
-🌱 &nbsp;I'm on track for learning more about Machine learning, AI, Robotics and Web Development.\
-✍️ &nbsp;In my free time, I play games, talk with friends and study!.\
-💬 &nbsp;Feel free to reach out to me\
-✉️ &nbsp;You can email me at matiasbiasotti1834@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [CV](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing) here.
+💻 &nbsp; I'm currently learning React native, AWS, Firebase and anything that interests me in the process\
+🎓&nbsp; I studied in [SoyHenry's Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
+🌱 &nbsp; I'm on track learning more about Machine Learning, AI, Robotics and Web Development.\
+✍️ &nbsp; In my free time, I play games, talk to, and study together with my friends!.\
+💬 &nbsp; Feel free to reach out to me\
+✉️ &nbsp; You can email me at matiasbiasotti1834@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp; You can check my [CV](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing) here.
 
 ### 🛠 &nbsp;Tech Stack
 
