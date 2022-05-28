@@ -8,14 +8,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Fullstack Web Developer, mostly using React but learning more technologies as you read this! \
+💡 &nbsp; I'm a Fullstack Web Developer, mostly working with React but i'm learning more technologies as you read this! \
 💻 &nbsp; I'm currently learning React native, AWS, Firebase and anything that interests me in the process\
-🎓&nbsp; I studied in [SoyHenry's Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
-🌱 &nbsp; I'm on track learning more about Machine Learning, AI, Robotics and Web Development.\
+🎓 &nbsp; I studied at [SoyHenry's Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
+🌱 &nbsp; I'm on track to learn more about Machine Learning, AI, Robotics and Web Development.\
 ✍️ &nbsp; In my free time, I play games, talk to, and study together with my friends!.\
-💬 &nbsp; Feel free to reach out to me\
-✉️ &nbsp; You can email me at matiasbiasotti1834@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp; You can check my [CV](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing) here.
+💬 &nbsp; Feel free to reach out to me, I'll try to respond as soon as possible\
+📄 &nbsp; You can check my CV [here](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,17 +40,3 @@
 <a href="https://www.linkedin.com/in/matias-biasotti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:matiasbiasotti1834@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-<!--
-**matias183/matias183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
